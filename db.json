@@ -1,0 +1,79 @@
+{
+  "posts": [
+    {
+      "id": 10,
+      "name": "shital",
+      "email": "shital162@gmail.com",
+      "mobile": 9876789333,
+      "address": "nashik",
+      "services": "vadapav",
+      "groupId": ""
+    },
+    {
+      "id": 11,
+      "name": "Test",
+      "email": "Test@gmail.com",
+      "mobile": 55666677777,
+      "address": "Test",
+      "services": "Test",
+      "groupId": ""
+    },
+    {
+      "id": 12,
+      "name": "Sayali",
+      "email": "sayali09@gmail.com",
+      "mobile": 8990989999,
+      "address": "satara",
+      "services": "All",
+      "groupId": ""
+    }
+  ],
+  "signup": [
+    {
+      "name": "",
+      "email": "",
+      "mobile": "",
+      "password": "",
+      "id": 1
+    },
+    {
+      "name": "Swapnil",
+      "email": "asss",
+      "mobile": "999999999",
+      "password": "7866",
+      "id": 2
+    },
+    {
+      "name": "Swapnil",
+      "email": "swapnil123@gmail.com",
+      "mobile": "7020026709",
+      "password": "222333",
+      "id": 3
+    },
+    {
+      "name": "Swapnil",
+      "email": "swapnilgonjare123@gmail.com",
+      "mobile": "7020026709",
+      "password": "222222",
+      "id": 4
+    },
+    {
+      "name": "Swapnil",
+      "email": "swapnil123@gmail.com",
+      "mobile": "90988888888",
+      "password": "222222",
+      "id": 5
+    },
+    {
+      "name": "Swapnil",
+      "email": "swapnil123@gmail.com",
+      "mobile": "98988888888",
+      "password": "222222",
+      "id": 6
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
